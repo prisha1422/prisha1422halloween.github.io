@@ -1,0 +1,13 @@
+.name{
+    float: left;
+    width: 100px;
+    height: 100px;
+   }
+   .title{
+    font-style:italic;
+    color: orange;
+    font-weight:bolder;
+    text-shadow: 1px 1px black;
+    
+
+   }
